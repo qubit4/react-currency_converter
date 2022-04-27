@@ -1,4 +1,3 @@
-# project-react-three
 currency converter
 
 current rates fetched with API call 
